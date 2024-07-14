@@ -1,4 +1,4 @@
-import requests
+
 
 total_queries=0
 char="0123456789abcdefghijklmnopqrstuvwxyz"
@@ -75,4 +75,3 @@ while True:
             print("Invalid id")
     except KeyboardInterrupt:
         break
-    
